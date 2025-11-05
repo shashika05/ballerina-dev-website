@@ -102,7 +102,7 @@ export function Tracing({ codeSnippets }) {
         <p>
           <strong>Info:</strong> For more information about configs and
           observing applications, see{" "}
-          <a href="/learn/observe-ballerina-programs/">
+          <a href="/learn/overview-of-ballerina-observability/">
             Observe Ballerina programs
           </a>
           .
@@ -120,7 +120,7 @@ export function Tracing({ codeSnippets }) {
             onClick={() => {
               window.open(
                 "https://github.com/ballerina-platform/ballerina-distribution/tree/v2201.12.10/examples/tracing",
-                "_blank",
+                "_blank"
               );
             }}
             aria-label="Edit on Github"
